@@ -1,0 +1,1 @@
+# Hackerrank-Solution-Static-Initializer-Block
